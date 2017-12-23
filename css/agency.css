@@ -431,9 +431,11 @@ header.masthead {
 
 .team-member {
   margin-bottom: 50px;
+    background-color: rgb(53,58,63);
   text-align: center; }
   .team-member img {
     width: 100%;
+      background-color: rgb(53,58,63);
 /*    height: 225px;*/
 }
   .team-member h4 {
