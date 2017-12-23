@@ -144,7 +144,7 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; 
-  background-color: #212529;;  /*#212529*/ }
+  background-color: rgb(53,58,63);  /*#212529*/ }
   header.masthead .intro-text {
     padding-top: 150px;
     padding-bottom: 100px; }
