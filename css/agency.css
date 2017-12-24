@@ -180,7 +180,9 @@ header.masthead {
 
 .service-heading {
   margin: 15px 0;
-  text-transform: none; }
+  text-transform: none;
+  color: rgb(178, 108, 27);
+}
 
 #portfolio .portfolio-item {
   right: 0;
@@ -451,7 +453,7 @@ section#contact {
   background-repeat: no-repeat;
   background-position: center; }
   section#contact .section-heading {
-    color: rgb(178, 108, 27);; }
+    color: rgb(178, 108, 27); }
   section#contact .form-group {
     margin-bottom: 25px; }
     section#contact .form-group input,
